@@ -1,4 +1,4 @@
-# Micrograd-Scratch-
+# Micrograd-Scratch
 
 
 A small educational project that explains **derivatives, backpropagation, and neural networks** from scratch using Python and Jupyter Notebooks.
